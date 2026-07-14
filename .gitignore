@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cahce
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Raspberry Pi
+*.log
