@@ -13,3 +13,6 @@ __pycache__/
 
 # Raspberry Pi
 *.log
+
+# Third-party vendor code
+third_party/

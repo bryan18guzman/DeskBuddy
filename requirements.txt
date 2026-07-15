@@ -1,3 +1,7 @@
+colorzero==2.0
+gpiozero==2.0.1
 numpy==2.5.1
 pillow==12.3.0
+RPi.GPIO==0.7.1
+setuptools==83.0.0
 spidev==3.8
